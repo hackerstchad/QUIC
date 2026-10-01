@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Protocol-QUIC-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="QUIC Protocol">
-  <img src="https://img.shields.io/badge/RFC-9000-blue?style=for-the-badge&logo=ietf&logoColor=white" alt="RFC 9000">
+  <img src="https://img.shields.io/badge/RFC-9000-blue?style=for-the-badge&logo=ietf&logoColor=white" alt="RFC">
   <img src="https://img.shields.io/badge/HTTP/3-Enabled-FF6D00?style=for-the-badge&logo=cloudflare&logoColor=white" alt="HTTP/3">
   <img src="https://img.shields.io/badge/Security-TLS_1.3-6A1B9A?style=for-the-badge&logo=openssl&logoColor=white" alt="TLS 1.3">
 </p>
