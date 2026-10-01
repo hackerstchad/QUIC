@@ -1,5 +1,8 @@
 # 📡 QUIC — The Next-Generation Transport Protocol
 
+<img width="1248" height="832" alt="OIG4" src="https://github.com/user-attachments/assets/063712df-87ba-4323-aa1c-9af17ddc0779" />
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Protocol-QUIC-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" alt="QUIC Protocol">
   <img src="https://img.shields.io/badge/RFC-9000-blue?style=for-the-badge&logo=ietf&logoColor=white" alt="RFC 9000">
